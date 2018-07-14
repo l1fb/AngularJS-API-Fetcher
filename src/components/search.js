@@ -5,10 +5,12 @@ angular.module('api-fetcher')
   .component('search', {
     template:
       `
-    <div>
-      <input></input>
+    <div input-field>
+      <input type="text" length="100"></input>
+      <label>Search Jobs</label>
+      
       <div>
-      <button>Search</button>
+        <button>Search</button>
       </div>
     </div>
     

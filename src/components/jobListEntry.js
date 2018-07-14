@@ -5,6 +5,10 @@ angular.module('api-fetcher')
   .component('jobListEntry', {
     template:
       `
+    <div>
+      <div>
+
+    </div>
     
     `
   })
