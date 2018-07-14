@@ -18,9 +18,11 @@
   "homepage": "https://github.com/l1fb/AngularJS-API-Fetcher#readme",
   "devDependencies": {
     "angular-mocks": "^1.7.2",
+    "jasmine-core": "^3.1.0",
     "jquery": "^3.3.1",
     "karma": "^2.0.4",
     "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2",
     "lodash": "^4.17.10"
   },
   "dependencies": {

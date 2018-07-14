@@ -6,8 +6,7 @@ angular.module('api-fetcher')
     template:
       `
     <div>
-      <div>
-
+ each entry
     </div>
     
     `

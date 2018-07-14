@@ -5,6 +5,9 @@ angular.module('api-fetcher')
   .component('jobList', {
     template:
       `
+      <div>
+        <job-list-entry/>
+      </div>
     
     `
   })
