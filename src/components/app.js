@@ -8,17 +8,17 @@ angular.module('api-fetcher')
     controller: 'AppCtrl',
     template:
       `
-  <div id="app">
-  <h1>AngularJS API Fetcher</h1>
-    <div>
-    Search
-      <search/>
-    </div>
-    <div>
-    Video List
-      <video-list/>
-    </div>
-  </div> 
+      <div id="app">
+        <h1>AngularJS API Fetcher</h1>
+        <div>
+        Search
+          <search/>
+        </div>
+        <div>
+        Video List
+          <video-list/>
+        </div>
+      </div> 
   
-  `
+    `
   })
